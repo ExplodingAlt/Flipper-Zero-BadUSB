@@ -376,11 +376,11 @@ if (!$Networks) { Write-Host "variable is null"
 
 # this is the message that will be coded into the image you use as the wallpaper
 
-	$hiddenMessage = "`n`nMy crime is that of curiosity `nand yea curiosity killed the cat `nbut satisfaction brought him back `n with love -Jakoby"
+	$hiddenMessage = "`n`nHe's dead but he won't lie down."
 
 # this will be the name of the image you use as the wallpaper
 
-	$ImageName = "dont-be-suspicious"
+	$ImageName = "Nothing"
 
 <#
 
