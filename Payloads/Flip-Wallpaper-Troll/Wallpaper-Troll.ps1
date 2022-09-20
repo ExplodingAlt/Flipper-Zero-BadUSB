@@ -30,11 +30,11 @@
 
 # this is the message that will be coded into the image you use as the wallpaper
 
-$hiddenMessage = "`n`nMy crime is that of curiosity `nand yea curiosity killed the cat `nbut satisfaction brought him back `n with love -Jakoby"
+$hiddenMessage = "He's dead but he won't lie down"
 
 # this will be the name of the image you use as the wallpaper
 
-$ImageName = "dont-be-suspicious"
+$ImageName = "Nothing"
 
 #############################################################################################################################################
 
@@ -68,7 +68,7 @@ $fn = Get-Name
 
 echo "Hey" $fn >> $Env:temp\foo.txt
 
-echo "`nYour computer is not very secure" >> $Env:temp\foo.txt
+echo "Did you know that" >> $Env:temp\foo.txt
 
 #############################################################################################################################################
 
